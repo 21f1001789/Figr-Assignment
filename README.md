@@ -8,7 +8,7 @@ This project involves an LLM model powered by Google Gemini, hosted on Streamlit
 Clone the repository to your local machine using the following command:
 
 ```
-git clone [repository link]
+git clone https://github.com/21f1001789/LLM-Model
 
 ```
 
